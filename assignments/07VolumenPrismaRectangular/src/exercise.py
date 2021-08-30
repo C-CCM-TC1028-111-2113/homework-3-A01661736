@@ -16,7 +16,7 @@ def main():
     
     area(ba,l,h)
     Ar=area(ba,l,h)
-    print ("El área es: " + str(Ar) +" m^3")
+    print ("El volumen es: " + str(Ar) +" m^3")
     
     pass
 
